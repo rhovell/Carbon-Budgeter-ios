@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "337d59a4-99e1-4ae3-ae18-a28f8c1e7e07"
+      }
+    },
+    "owner": "rhovell"
   }
 }
